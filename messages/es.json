@@ -1,0 +1,30 @@
+{
+  "Index": {
+    "title": "Comprando cositas",
+    "loginText": "Iniciar sesión",
+		"selectLanguage": "Selecciona tu idioma",
+		"languages": {
+			"en": "Inglés",
+			"fr": "Francés",
+			"es": "Español"
+		},
+    "hero": {
+      "title": "Tenemos todo tipo de productos",
+      "subtitle": "Tenemos productos de todo tipo, desde ropa hasta comida. ¡Echa un vistazo!"
+    },
+    "ourProducts": {
+      "title": "Nuestros productos",
+			"addToCart": "Añadir al carrito",
+      "close": "Cerrar"
+    },
+    "pagination": {
+      "previous": "Anterior",
+      "next": "Siguiente"
+    },
+    "cart": {
+      "title": "Mis cositas 💼",
+      "empty": "Tu carrito está vacío",
+      "checkout": "Pagar"
+    }
+  }
+}

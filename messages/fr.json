@@ -1,0 +1,30 @@
+{
+	"Index": {
+		"title": "CHOSES D'ACHAT",
+		"loginText": "Se connecter",
+		"selectLanguage": "Sélectionner la langue",
+		"languages": {
+			"en": "Anglais",
+			"fr": "Français",
+			"es": "Espagnol"
+		},
+		"hero": {
+			"title": "Toutes sortes de produits",
+			"subtitle": "Nous avons beaucoup de produits pour vous, jetez-y un œil !"
+		},
+		"ourProducts": {
+			"title": "Nos produits",
+			"addToCart": "Ajouter au panier",
+      "close": "Fermer"
+		},
+		"pagination": {
+			"previous": "Précédent",
+			"next": "Suivant"
+		},
+		"cart": {
+			"title": "Mes choses 💼",
+			"empty": "Votre panier est vide",
+			"checkout": "Commander"
+		}
+	}
+}

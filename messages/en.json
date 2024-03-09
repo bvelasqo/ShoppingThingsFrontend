@@ -1,0 +1,30 @@
+{
+  "Index": {
+    "title": "Shopping Things",
+    "loginText": "Login",
+		"selectLanguage": "Select Language",
+    "languages": {
+			"en": "English",
+			"fr": "Français",
+			"es": "Español"
+		},
+    "hero": {
+      "title": "All kind of products",
+      "subtitle": "We have a lot of products for you, check it out!"
+    },
+    "ourProducts": {
+      "title": "Our Products",
+      "addToCart": "Add to cart",
+      "close": "Close"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "cart": {
+      "title": "My Things 💼",
+      "empty": "Your cart is empty",
+      "checkout": "Checkout"
+    }
+  }
+}
